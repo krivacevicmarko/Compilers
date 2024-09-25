@@ -1,0 +1,21 @@
+TITLE
+Napisati regularni izraz koji radi sa binarnim stringovima.
+COMMENT
+String prihvata bilo koji string koji sadrzi bar jednu jedinicu.
+TRUE
+1
+00001
+10000
+11111
+010101
+0001000
+010000
+1110111
+111111
+00000000000001000000
+FALSE
+0
+00
+000
+0000
+00000000000

@@ -1,0 +1,36 @@
+TITLE
+Napisati regularni izraz koji prihvata bilo koji string sastavljen od cifara i malih i velikih
+COMMENT
+String sadrži bar jednu cifru, bar jedno malo i bar jedno veliko slovo.
+TRUE
+aA99
+abc98D
+Aa9
+codeNo23
+Marko98
+prevodiociVezbe2023
+Lajanjenazvezde1980
+Godinaje2023
+pro1234Vera
+1984Orvel
+Kosovskabitka1389
+Lani2022
+primer1jeDobar
+odliCan5
+djak1Prvak
+FALSE
+Marko
+MARKO
+marko98
+MARKO98
+1998
+MarkoKrivacevic
+ProgramskiPrevodioci
+programskiprevodioci2023
+RacunarskiFakultet
+NeRadiBezBroja
+OvoJeNETACANprimer
+HvalaNaPaznji
+1234567osamdevet
+LepoJeraditiPP
+bezBROJAnemaKONJA

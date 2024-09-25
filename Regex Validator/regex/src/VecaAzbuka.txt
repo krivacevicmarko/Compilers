@@ -1,0 +1,27 @@
+TITLE
+Napisati regularni izraz koji prihvata sve stringove nad azbukom cifara i znaka tačka (".").
+COMMENT
+Predstavljaju brojeve koji imaju decimalni deo (brojeve kao što je 2.00 računati kao da
+imaju decimalni deo, iako se iza tačke nalazi samo niz cifara 0).
+TRUE
+1.1
+12.12345
+2.00
+58.5
+100.0
+1023.5865
+0.889
+12.1312
+50852.005
+246.300
+FALSE
+5
+0
+223
+1051,0
+28
+11a2.45
+101
+0987
+22.k55
+1234567
